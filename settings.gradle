@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'demo'
+
+include 'demo-server'
+include 'demo-ui'
+include 'demo-ui'
+
